@@ -10,4 +10,8 @@ minhas atividades :open_book:
 
 meus atributos:money_with_wings:
 
-se estiver longe vem de busão
+se estiver longe vem de busão:bus:
+
+faixa preta:bust_in_silhouette:
+
+aniversário do club da dz7:infinity:	
